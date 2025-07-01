@@ -14,18 +14,10 @@
 
 ### 🔧 Tech Stack
 
-- 💻 Languages: `Python`, `Java`,  `JavaScript`, `HTML`, `CSS`, `SQL`
-- 🧰 Tools & Frameworks: `Django`, `Bootstrap 5`, `MongoDB`, `PHPMyAdmin`
+- 💻 Languages: `Python`, `Java`,  `JavaScript`, `HTML`, `CSS`
+- 🧰 Tools & Frameworks: `Django`, `Bootstrap 5`, `MongoDB`
 - 🛠️ Core Concepts: `OOP`, `Data Structures`, `DBMS`, `JDBC`, `Exception Handling`, `File I/O`
 - 🧪 Experiments with: `MANE stack`, `API integrations`, and `responsive UIs`
-
----
-
-### 📂 Notable Projects
-
-- 🧾 **Invoice Generator (Python Only)**
-  - Roles: Admin and Employee
-  - Features: PDF invoices, database integration, 700+ lines of clean OOP code
 
 ---
 
