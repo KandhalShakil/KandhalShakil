@@ -24,7 +24,7 @@
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kandhalshakil)
-- 📧 Email: [kandhalshakil@gmail.co](mailto:kandhalshakil@gmail.com)
+- 📧 Email: [kandhalshakil@gmail.com](mailto:kandhalshakil@gmail.com)
 
 ---
 
