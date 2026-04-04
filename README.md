@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](http://www.kandhal.tech)
+<a href="https://www.kandhal.tech">
+  <img src="https://github.com/KandhalShakil/Portfolio_react/blob/main/public/logo.jpg?raw=true" width="120" />
+</a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kandhal_shakil_551) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kandhal-shakil-5311302b6) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/ShakilKandhal) 
