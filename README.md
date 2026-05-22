@@ -1,22 +1,124 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- Building an Invoice Management System with payment integration  <br>- Developing AI-based tools and real-world web applications  <br><br>👯 I’m looking to collaborate on  <br>- Fullstack projects (React, Node.js, Python)  <br>- Open-source projects with real impact  <br><br>🤝 I’m looking for help with  <br>- System design and scalable architecture  <br>- Payment gateway integrations  <br><br>🌱 I’m currently learning  <br>- Advanced backend development  <br>- System design concepts  <br>- Performance optimization  <br><br>💬 Ask me about  <br>- Python, JavaScript  <br>- APIs, backend development  <br>- Building real-world projects  <br><br>⚡ Fun fact  <br>- I prefer building real projects over just watching tutorials  
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Kandhal%20Shakil&fontSize=56&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Backend%20Engineer%20•%20AI%20Builder&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=google-chrome&logoColor=white)](https://www.kandhal.tech) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kandhal_shakil_551) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kandhal-shakil-5311302b6) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/ShakilKandhal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kandhalshakil@gmail.com)
+<br/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KandhalShakil&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KandhalShakil&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KandhalShakil&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+Engineering+%2B+AI+Integration;Building+Production-Grade+Applications;Clean+Architecture+%E2%80%A2+Scalable+Systems" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=KandhalShakil&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+name: Kandhal Shakil
+role: Full-Stack Developer
+location: India
+
+specialization:
+  - Backend Engineering
+  - AI-Powered Applications
+  - API Development
+  - Scalable Systems
+
+currently_learning:
+  - System Design
+  - Distributed Systems
+  - Performance Optimization
+  - Scalable Architecture
+
+currently_building:
+  - AI Automation Tools
+  - Backend APIs
+  - Fullstack Applications
+  - Payment Integrated Systems
+```
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nextjs,nodejs,django,mongodb,postgres,supabase,tailwind,git,github,vercel,vscode&perline=8" />
+
+</div>
+
+---
+
+# 🚀 Engineering Focus
+
+- Building production-grade applications
+- Backend-heavy system architecture
+- AI-integrated workflows
+- API design and optimization
+- Scalable database structures
+- Clean and maintainable code
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KandhalShakil&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KandhalShakil&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KandhalShakil/KandhalShakil/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.kandhal.tech">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kandhal-shakil-5311302b6">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/ShakilKandhal">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:kandhalshakil@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer"/>
+
+</div>
